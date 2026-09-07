@@ -11,6 +11,8 @@ BASE = os.path.join(os.path.dirname(__file__), "..")
 API = os.environ.get("ASK_URL", "http://localhost:8000/ask")
 
 
+
+
 def ask(query, top_k=10):
     data = json.dumps({"query": query, "top_k": top_k}).encode()
     req = urllib.request.Request(API, data=data, headers={"Content-Type": "application/json"})
