@@ -139,3 +139,9 @@ def parse_query(query: str) -> dict:
     clean = re.sub(r"\s+", " ", clean).strip(" ,?")
 
     return {"sender": sender, "date_range": date_range, "clean_query": clean}
+
+
+
+
+
+
