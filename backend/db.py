@@ -128,6 +128,8 @@ def get_messages_by_ids(ids: list[int]) -> dict[int, dict]:
     return {m["message_id"]: m for m in coll.find({"message_id": {"$in": ids}}, proj)}
 
 
+
+
 def expand_context(matches: list[dict], radius: int = 3) -> list[dict]:
     """Attach up to `radius` messages before/after each match (same thread preferred).
 
