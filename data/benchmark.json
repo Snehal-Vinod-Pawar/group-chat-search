@@ -1,0 +1,569 @@
+[
+  {
+    "id": 1,
+    "query": "when was the destination finally confirmed?",
+    "query_type": "semantic",
+    "correct_answer_message_id": 3573,
+    "expected_thread_id": "thread_manali_trip",
+    "answer_text": "chalo Manali fix hai 😂",
+    "answer_sender": "Priya",
+    "answer_timestamp": "2024-06-04T11:30:00",
+    "flags": {
+      "zero_overlap": true,
+      "thread": "manali"
+    }
+  },
+  {
+    "id": 2,
+    "query": "what was the final itinerary for the trip?",
+    "query_type": "semantic",
+    "correct_answer_message_id": 3529,
+    "expected_thread_id": "thread_manali_trip",
+    "answer_text": "So to confirm: Manali, May 15-18, shared cab, Airbnb booked",
+    "answer_sender": "Priya",
+    "answer_timestamp": "2024-06-03T06:05:00",
+    "flags": {
+      "zero_overlap": true,
+      "thread": "manali"
+    }
+  },
+  {
+    "id": 3,
+    "query": "where is the celebration happening and when was it locked?",
+    "query_type": "semantic",
+    "correct_answer_message_id": 2115,
+    "expected_thread_id": "thread_house_party",
+    "answer_text": "party confirm hai - March 16, Sneha's flat",
+    "answer_sender": "Priya",
+    "answer_timestamp": "2024-04-05T05:30:00",
+    "flags": {
+      "zero_overlap": true,
+      "thread": "party"
+    }
+  },
+  {
+    "id": 4,
+    "query": "party ke liye kharcha kitna decide hua?",
+    "query_type": "semantic",
+    "correct_answer_message_id": 2063,
+    "expected_thread_id": "thread_house_party",
+    "answer_text": "Final plan: March 16 (Sat), Sneha's flat, food ordered, budget 2000 total 😂",
+    "answer_sender": "Priya",
+    "answer_timestamp": "2024-04-03T05:06:00",
+    "flags": {
+      "zero_overlap": true,
+      "hinglish": true,
+      "thread": "party"
+    }
+  },
+  {
+    "id": 5,
+    "query": "which apps are we sharing and what is the per-head cost?",
+    "query_type": "semantic",
+    "correct_answer_message_id": 2748,
+    "expected_thread_id": "thread_subscription",
+    "answer_text": "subscription plan final: Netflix Premium + Prime + Spotify Family @ 153/month each",
+    "answer_sender": "Priya",
+    "answer_timestamp": "2024-05-04T21:30:00",
+    "flags": {
+      "zero_overlap": true,
+      "thread": "subscription"
+    }
+  },
+  {
+    "id": 6,
+    "query": "how are we getting there? options kya hain?",
+    "query_type": "semantic",
+    "correct_answer_message_id": 3322,
+    "expected_thread_id": "thread_manali_trip",
+    "answer_text": "Cab or train? Cab is faster but expensive",
+    "answer_sender": "Priya",
+    "answer_timestamp": "2024-05-25T04:00:00",
+    "flags": {
+      "zero_overlap": true,
+      "hinglish": true,
+      "thread": "manali"
+    }
+  },
+  {
+    "id": 7,
+    "query": "accommodation sorted hai kya?",
+    "query_type": "semantic",
+    "correct_answer_message_id": 3484,
+    "expected_thread_id": "thread_manali_trip",
+    "answer_text": "Found a good Airbnb near Mall Road, 3500/night, 2 rooms",
+    "answer_sender": "Anjali",
+    "answer_timestamp": "2024-06-01T09:00:00",
+    "flags": {
+      "zero_overlap": true,
+      "hinglish": true,
+      "thread": "manali"
+    }
+  },
+  {
+    "id": 8,
+    "query": "who came up with the celebration idea?",
+    "query_type": "semantic",
+    "correct_answer_message_id": 1519,
+    "expected_thread_id": "thread_house_party",
+    "answer_text": "hey everyone, hostel ke saath mein ek party de sakte hain kya?",
+    "answer_sender": "Karan",
+    "answer_timestamp": "2024-03-11T14:00:00",
+    "flags": {
+      "zero_overlap": true,
+      "thread": "party"
+    }
+  },
+  {
+    "id": 9,
+    "query": "did anyone mention the weather over there?",
+    "query_type": "semantic",
+    "correct_answer_message_id": 2976,
+    "expected_thread_id": "thread_manali_trip",
+    "answer_text": "Manali achha lagta hai. Weather theek hota hai wahan",
+    "answer_sender": "Sneha",
+    "answer_timestamp": "2024-05-12T06:05:00",
+    "flags": {
+      "thread": "manali"
+    }
+  },
+  {
+    "id": 10,
+    "query": "results kab aa rahe hain?",
+    "query_type": "semantic",
+    "correct_answer_message_id": 46,
+    "expected_thread_id": "general",
+    "answer_text": "quiz result declare ho gaya hai",
+    "answer_sender": "Amit",
+    "answer_timestamp": "2024-01-03T04:07:04.435605",
+    "flags": {
+      "hinglish": true
+    }
+  },
+  {
+    "id": 11,
+    "query": "koi movie recommend karega weekend ke liye?",
+    "query_type": "semantic",
+    "correct_answer_message_id": 13,
+    "expected_thread_id": "general",
+    "answer_text": "koi movie recmomend karega?",
+    "answer_sender": "Meera",
+    "answer_timestamp": "2024-01-01T18:46:51.005330",
+    "flags": {
+      "hinglish": true
+    }
+  },
+  {
+    "id": 12,
+    "query": "notes kisi ke paas hain kya?",
+    "query_type": "semantic",
+    "correct_answer_message_id": 18,
+    "expected_thread_id": "general",
+    "answer_text": "dost, teer notes share kar sakta hu?",
+    "answer_sender": "Amit",
+    "answer_timestamp": "2024-01-02T03:55:24.324193",
+    "flags": {
+      "hinglish": true
+    }
+  },
+  {
+    "id": 13,
+    "query": "who should get the plan money and how was it worked out?",
+    "query_type": "semantic",
+    "correct_answer_message_id": 2397,
+    "expected_thread_id": "thread_subscription",
+    "answer_text": "total annual cost: Netflix 6500 + Prime 1499 + Spotify 2148 = ~10147",
+    "answer_sender": "Amit",
+    "answer_timestamp": "2024-04-19T01:08:00",
+    "flags": {
+      "zero_overlap": true,
+      "thread": "subscription"
+    }
+  },
+  {
+    "id": 14,
+    "query": "was the hall ticket rule made clear to everyone?",
+    "query_type": "semantic",
+    "correct_answer_message_id": 162,
+    "expected_thread_id": "general",
+    "answer_text": "Forwarded:\nReminder: ID card mandatory for exam entry.",
+    "answer_sender": "Rohan",
+    "answer_timestamp": "2024-01-08T23:23:14.124615",
+    "flags": {
+      "zero_overlap": true
+    }
+  },
+  {
+    "id": 15,
+    "query": "what did Vikram say about where to stay?",
+    "query_type": "attributed",
+    "correct_answer_message_id": 3453,
+    "expected_thread_id": "thread_manali_trip",
+    "answer_text": "Airbnb or hotel? Groups mein Airbnb usually sasti hoti hai",
+    "answer_sender": "Vikram",
+    "answer_timestamp": "2024-05-30T08:02:00",
+    "flags": {
+      "zero_overlap": true,
+      "sender": "Vikram",
+      "thread": "manali"
+    }
+  },
+  {
+    "id": 16,
+    "query": "what did Vikram say about transport costs?",
+    "query_type": "attributed",
+    "correct_answer_message_id": 3380,
+    "expected_thread_id": "thread_manali_trip",
+    "answer_text": "Cab for 8 people should be around 4-5k total, so ~600-700 per person",
+    "answer_sender": "Vikram",
+    "answer_timestamp": "2024-05-27T03:00:00",
+    "flags": {
+      "zero_overlap": true,
+      "sender": "Vikram",
+      "thread": "manali"
+    }
+  },
+  {
+    "id": 17,
+    "query": "what did Rohan say about the trip budget?",
+    "query_type": "attributed",
+    "correct_answer_message_id": 3120,
+    "expected_thread_id": "thread_manali_trip",
+    "answer_text": "15k? bhai yeh toh sirf transport + hotel ka ho gaya 🤗",
+    "answer_sender": "Rohan",
+    "answer_timestamp": "2024-05-17T08:05:00",
+    "flags": {
+      "zero_overlap": true,
+      "sender": "Rohan",
+      "thread": "manali"
+    }
+  },
+  {
+    "id": 18,
+    "query": "what did Amit suggest to keep costs low?",
+    "query_type": "attributed",
+    "correct_answer_message_id": 3099,
+    "expected_thread_id": "thread_manali_trip",
+    "answer_text": "We can manage if we book shared taxis and budget hotels",
+    "answer_sender": "Amit",
+    "answer_timestamp": "2024-05-16T10:00:00",
+    "flags": {
+      "zero_overlap": true,
+      "sender": "Amit",
+      "thread": "manali"
+    }
+  },
+  {
+    "id": 19,
+    "query": "what did Sneha offer for the party venue?",
+    "query_type": "attributed",
+    "correct_answer_message_id": 1569,
+    "expected_thread_id": "thread_house_party",
+    "answer_text": "my flat is available. 2BHK, good for ~15-20 people",
+    "answer_sender": "Sneha",
+    "answer_timestamp": "2024-03-13T05:03:00",
+    "flags": {
+      "zero_overlap": true,
+      "sender": "Sneha",
+      "thread": "party"
+    }
+  },
+  {
+    "id": 20,
+    "query": "what did Anjali offer for the party?",
+    "query_type": "attributed",
+    "correct_answer_message_id": 1545,
+    "expected_thread_id": "thread_house_party",
+    "answer_text": "I can help with decorations if needed 💯",
+    "answer_sender": "Anjali",
+    "answer_timestamp": "2024-03-12T09:05:00",
+    "flags": {
+      "zero_overlap": true,
+      "sender": "Anjali",
+      "thread": "party"
+    }
+  },
+  {
+    "id": 21,
+    "query": "what did Karan say about the food?",
+    "query_type": "attributed",
+    "correct_answer_message_id": 2034,
+    "expected_thread_id": "thread_house_party",
+    "answer_text": "no way I'm coming if I have to eat homemade snacks 😂 💯",
+    "answer_sender": "Karan",
+    "answer_timestamp": "2024-04-02T05:03:00",
+    "flags": {
+      "zero_overlap": true,
+      "sender": "Karan",
+      "thread": "party"
+    }
+  },
+  {
+    "id": 22,
+    "query": "what did Meera think about the whole plan?",
+    "query_type": "attributed",
+    "correct_answer_message_id": 1520,
+    "expected_thread_id": "thread_house_party",
+    "answer_text": "party? zaroori hai kya? assignment bhi toh chal raha hai",
+    "answer_sender": "Meera",
+    "answer_timestamp": "2024-03-11T14:03:00",
+    "flags": {
+      "zero_overlap": true,
+      "sender": "Meera",
+      "thread": "party"
+    }
+  },
+  {
+    "id": 23,
+    "query": "Amit ne sound system ke baare mein kya pucha?",
+    "query_type": "attributed",
+    "correct_answer_message_id": 1573,
+    "expected_thread_id": "thread_house_party",
+    "answer_text": "flat sound system bhi hoga? music ke liye 🤔",
+    "answer_sender": "Amit",
+    "answer_timestamp": "2024-03-13T10:07:00",
+    "flags": {
+      "hinglish": true,
+      "sender": "Amit",
+      "thread": "party"
+    }
+  },
+  {
+    "id": 24,
+    "query": "what was shared in January 2024 about scholarships?",
+    "query_type": "temporal",
+    "correct_answer_message_id": 25,
+    "expected_thread_id": "general",
+    "answer_text": "Forwarded message:\nScholarship applications open!\nLast date: 15th of this month.",
+    "answer_sender": "Amit",
+    "answer_timestamp": "2024-01-02T10:58:17.601798",
+    "flags": {}
+  },
+  {
+    "id": 25,
+    "query": "any reminders about exam entry in February?",
+    "query_type": "temporal",
+    "correct_answer_message_id": 795,
+    "expected_thread_id": "general",
+    "answer_text": "Forwarded:\nReminder: ID card mandatory for exam entry.",
+    "answer_sender": "Sneha",
+    "answer_timestamp": "2024-02-06T21:08:21.853958",
+    "flags": {}
+  },
+  {
+    "id": 26,
+    "query": "what happened in the group in March 2024?",
+    "query_type": "temporal",
+    "correct_answer_message_id": 1519,
+    "expected_thread_id": "thread_house_party",
+    "answer_text": "hey everyone, hostel ke saath mein ek party de sakte hain kya?",
+    "answer_sender": "Karan",
+    "answer_timestamp": "2024-03-11T14:00:00",
+    "flags": {
+      "thread": "party"
+    }
+  },
+  {
+    "id": 27,
+    "query": "what did we discuss last month about streaming?",
+    "query_type": "temporal",
+    "correct_answer_message_id": 2650,
+    "expected_thread_id": "thread_subscription",
+    "answer_text": "All agreed: Netflix premium + Prime + Spotify premium",
+    "answer_sender": "Priya",
+    "answer_timestamp": "2024-05-01T22:05:00",
+    "flags": {
+      "zero_overlap": true,
+      "thread": "subscription"
+    }
+  },
+  {
+    "id": 28,
+    "query": "any pending payments this month?",
+    "query_type": "temporal",
+    "correct_answer_message_id": 3599,
+    "expected_thread_id": "thread_manali_trip",
+    "answer_text": "advance booking amount kitna hai? 😊",
+    "answer_sender": "Sneha",
+    "answer_timestamp": "2024-06-05T10:02:00",
+    "flags": {
+      "zero_overlap": true,
+      "thread": "manali"
+    }
+  },
+  {
+    "id": 29,
+    "query": "where are we staying? share the location this month",
+    "query_type": "temporal",
+    "correct_answer_message_id": 3670,
+    "expected_thread_id": "thread_manali_trip",
+    "answer_text": "hotel ka address paste karo",
+    "answer_sender": "Meera",
+    "answer_timestamp": "2024-06-08T11:30:00",
+    "flags": {
+      "zero_overlap": true,
+      "thread": "manali"
+    }
+  },
+  {
+    "id": 30,
+    "query": "what did we discuss before April about the party date?",
+    "query_type": "temporal",
+    "correct_answer_message_id": 1668,
+    "expected_thread_id": "thread_house_party",
+    "answer_text": "date finalize karo. next weekend ya usse pehle? 😄",
+    "answer_sender": "Vikram",
+    "answer_timestamp": "2024-03-17T03:00:00",
+    "flags": {
+      "thread": "party"
+    }
+  },
+  {
+    "id": 31,
+    "query": "what was the mood about celebrating between March 10 and March 15?",
+    "query_type": "temporal",
+    "correct_answer_message_id": 1539,
+    "expected_thread_id": "thread_house_party",
+    "answer_text": "actually it would be fun! We haven't partied in a while 😅",
+    "answer_sender": "Priya",
+    "answer_timestamp": "2024-03-12T05:02:00",
+    "flags": {
+      "zero_overlap": true,
+      "thread": "party"
+    }
+  },
+  {
+    "id": 32,
+    "query": "what did Priya say about streaming choices in May 2024?",
+    "query_type": "combined",
+    "correct_answer_message_id": 2650,
+    "expected_thread_id": "thread_subscription",
+    "answer_text": "All agreed: Netflix premium + Prime + Spotify premium",
+    "answer_sender": "Priya",
+    "answer_timestamp": "2024-05-01T22:05:00",
+    "flags": {
+      "zero_overlap": true,
+      "sender": "Priya",
+      "thread": "subscription"
+    }
+  },
+  {
+    "id": 33,
+    "query": "what did Priya say about the money split in April 2024?",
+    "query_type": "combined",
+    "correct_answer_message_id": 2063,
+    "expected_thread_id": "thread_house_party",
+    "answer_text": "Final plan: March 16 (Sat), Sneha's flat, food ordered, budget 2000 total 😂",
+    "answer_sender": "Priya",
+    "answer_timestamp": "2024-04-03T05:06:00",
+    "flags": {
+      "zero_overlap": true,
+      "sender": "Priya",
+      "thread": "party"
+    }
+  },
+  {
+    "id": 34,
+    "query": "what did Anjali favour for the journey in May 2024?",
+    "query_type": "combined",
+    "correct_answer_message_id": 3355,
+    "expected_thread_id": "thread_manali_trip",
+    "answer_text": "I would prefer a shared cab. Faster and we reach together",
+    "answer_sender": "Anjali",
+    "answer_timestamp": "2024-05-26T08:00:00",
+    "flags": {
+      "zero_overlap": true,
+      "sender": "Anjali",
+      "thread": "manali"
+    }
+  },
+  {
+    "id": 35,
+    "query": "what did Karan say about Netflix in April 2024?",
+    "query_type": "combined",
+    "correct_answer_message_id": 2439,
+    "expected_thread_id": "thread_subscription",
+    "answer_text": "Netflix bhi chahiye na! group movies ke liye",
+    "answer_sender": "Karan",
+    "answer_timestamp": "2024-04-21T05:03:00",
+    "flags": {
+      "sender": "Karan",
+      "thread": "subscription"
+    }
+  },
+  {
+    "id": 36,
+    "query": "Sneha ne Manali ke baare mein kya kaha May 2024 mein?",
+    "query_type": "combined",
+    "correct_answer_message_id": 2976,
+    "expected_thread_id": "thread_manali_trip",
+    "answer_text": "Manali achha lagta hai. Weather theek hota hai wahan",
+    "answer_sender": "Sneha",
+    "answer_timestamp": "2024-05-12T06:05:00",
+    "flags": {
+      "hinglish": true,
+      "sender": "Sneha",
+      "thread": "manali"
+    }
+  },
+  {
+    "id": 37,
+    "query": "party kab?",
+    "query_type": "semantic",
+    "correct_answer_message_id": 2122,
+    "expected_thread_id": "thread_house_party",
+    "answer_text": "March 16 is final, mark your calendars",
+    "answer_sender": "Vikram",
+    "answer_timestamp": "2024-04-05T09:07:00",
+    "flags": {
+      "short": true,
+      "hinglish": true,
+      "zero_overlap": true,
+      "thread": "party"
+    }
+  },
+  {
+    "id": 38,
+    "query": "budjet ka final kya tha?",
+    "query_type": "semantic",
+    "correct_answer_message_id": 2748,
+    "expected_thread_id": "thread_subscription",
+    "answer_text": "subscription plan final: Netflix Premium + Prime + Spotify Family @ 153/month each",
+    "answer_sender": "Priya",
+    "answer_timestamp": "2024-05-04T21:30:00",
+    "flags": {
+      "typo": true,
+      "hinglish": true,
+      "thread": "subscription"
+    }
+  },
+  {
+    "id": 39,
+    "query": "airbnb walo ne otp bheja hoga, check karo",
+    "query_type": "semantic",
+    "correct_answer_message_id": 3570,
+    "expected_thread_id": "thread_manali_trip",
+    "answer_text": "OTP bhej diya maine Airbnb wale, check karo",
+    "answer_sender": "Anjali",
+    "answer_timestamp": "2024-06-04T10:10:00",
+    "flags": {
+      "hinglish": true,
+      "thread": "manali"
+    }
+  },
+  {
+    "id": 40,
+    "query": "confrim ho gaya sab?",
+    "query_type": "semantic",
+    "correct_answer_message_id": 2117,
+    "expected_thread_id": "thread_house_party",
+    "answer_text": "finally! party confirmed 🤷",
+    "answer_sender": "Rohan",
+    "answer_timestamp": "2024-04-05T06:02:00",
+    "flags": {
+      "typo": true,
+      "hinglish": true,
+      "thread": "party"
+    }
+  }
+]

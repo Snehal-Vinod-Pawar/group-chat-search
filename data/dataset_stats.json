@@ -1,0 +1,43 @@
+{
+  "total_messages": 4210,
+  "participants": {
+    "Karan": 518,
+    "Sneha": 582,
+    "Anjali": 525,
+    "Rohan": 503,
+    "Vikram": 537,
+    "Amit": 529,
+    "Meera": 494,
+    "Priya": 522
+  },
+  "date_start": "2024-01-01T01:03:09.609068",
+  "date_end": "2024-06-29T23:37:19.322890",
+  "months": [
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06"
+  ],
+  "threads": {
+    "thread_manali_trip": {
+      "start_date": "2024-05-10T18:00:00",
+      "message_count": 100,
+      "decision_message_id": 3573,
+      "decision_text": "chalo Manali fix hai 😂"
+    },
+    "thread_house_party": {
+      "start_date": "2024-03-10T19:00:00",
+      "message_count": 85,
+      "decision_message_id": 2115,
+      "decision_text": "party confirm hai - March 16, Sneha's flat"
+    },
+    "thread_subscription": {
+      "start_date": "2024-04-15T11:00:00",
+      "message_count": 75,
+      "decision_message_id": 2748,
+      "decision_text": "subscription plan final: Netflix Premium + Prime + Spotify Family @ 153/month each"
+    }
+  }
+}
