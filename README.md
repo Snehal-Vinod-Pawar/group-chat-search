@@ -2,6 +2,8 @@
 
 Semantic search over a group chat. You know a message exists — "we decided on Manali sometime" — but you don't remember the exact words, and searching "Manali" returns 200 hits. This project searches by **meaning**: you ask questions in natural language (including Hinglish) and it finds the actual messages, with the surrounding conversation for context.
 
+<img width="1772" height="892" alt="image" src="https://github.com/user-attachments/assets/93b78be3-04fe-4326-a614-ceda7a198fce" />
+
 ## Features
 
 - **Semantic search** — "when did we finalize the trip?" finds "chalo Manali fix hai" even though almost no words overlap
