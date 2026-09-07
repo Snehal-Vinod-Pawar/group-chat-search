@@ -1,6 +1,6 @@
 # Search a Group Chat Properly
 
-Semantic search over a group chat. You know a message exists — "we decided on Manali sometime" — but you don't remember the exact words, and searching "Manali" returns 200 hits. This project searches by **meaning**: you ask questions in natural language (including Hinglish) and it finds the actual messages, with the surrounding conversation for context.
+Semantic search over a group chat. This project uses semantic search to understand the meaning behind your query and find the most relevant messages—even when the answer uses completely different words. It also supports Hinglish and messy real-world chat, and shows the surrounding conversation so you get the full context, not just a single matching message.
 
 <img width="1772" height="892" alt="image" src="https://github.com/user-attachments/assets/93b78be3-04fe-4326-a614-ceda7a198fce" />
 
