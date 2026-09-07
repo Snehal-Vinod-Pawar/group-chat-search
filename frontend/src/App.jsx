@@ -82,6 +82,8 @@ function App() {
 
         {error && <div className="error">⚠ {error}</div>}
 
+        
+
         {data && !loading && (
           <div className="results-area">
             <div className="filters-bar">
